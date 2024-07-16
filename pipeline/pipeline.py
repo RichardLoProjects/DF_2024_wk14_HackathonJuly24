@@ -1,6 +1,14 @@
+'''Data pipeline to pull data from local csv and load data into the DF database.'''
+import pandas as pd
 
 
+class EnvSecrets:
+    def __init__(self) -> None:
+        pass
 
+class DatabaseConnection:
+    def __init__(self) -> None:
+        pass
 
 class DataPipeline:
     def __init__(self) -> None:
