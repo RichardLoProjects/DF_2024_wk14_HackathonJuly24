@@ -67,6 +67,7 @@ class DataPipeline:
     def load(self, database) -> None:
         table_name = 'hackathon_july24_test'
         primary_key = 'table_pk'
+        self.backup(primary_key)
         varchar_length = 10000
         create_table_sql = f'''
 CREATE TABLE IF NOT EXISTS {self.secret.schema}.{table_name} (
@@ -108,6 +109,22 @@ CREATE TABLE IF NOT EXISTS {self.secret.schema}.{table_name} (
             insert_query = f'INSERT INTO {self.secret.schema}.{table_name} ({columns}) VALUES ({values})'
             database.cursor.executemany(insert_query, tuples)
         database.connection.commit()
+    def backup(self, primary_key) -> None:
+        '''Adding to a back up csv file.'''
+        file_name = '../data/processed.csv'
+        try:
+            existing_data = pd.read_csv(file_name)
+            for column_name in existing_data.columns:
+                if 'Unnamed' in column_name:
+                    existing_data.drop(columns=column_name, inplace=True)
+            incoming_data = pd.concat([existing_data, self.new_data], ignore_index=True)
+            incoming_data.set_index(primary_key, inplace=True)
+            incoming_data.drop_duplicates(keep='first', inplace=True)
+            incoming_data.sort_index(inplace=True)
+            incoming_data.reset_index(inplace=True)
+            incoming_data.to_csv(file_name)
+        except FileNotFoundError:
+            self.new_data.to_csv(file_name)
 
 def repackage_modality(raw:str) -> tuple[list[str]]:
     raw = str(raw)
