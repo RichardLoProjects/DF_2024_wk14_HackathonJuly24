@@ -14,8 +14,6 @@
 
 # We use .env to store our database login credentials
 .env
-_etl.py
-_read.py
 
 
 
