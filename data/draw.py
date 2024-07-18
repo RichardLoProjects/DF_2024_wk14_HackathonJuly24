@@ -1,25 +1,28 @@
 from diagrams import Cluster, Diagram
-from diagrams.aws.general import General, GenericDatabase
 from diagrams.aws.database import RDS
-from diagrams.onprem.client import Client
+from diagrams.onprem.compute import Server
+from diagrams.onprem.analytics import Singer
 from diagrams.generic.storage import Storage
-from diagrams.onprem.client import User
+from diagrams.azure.general import Resource
 from diagrams.programming.language import Javascript
+from diagrams.onprem.client import Client, User
 
 def main():
-    with Diagram('Data Flow Diagram', show=True):
-        source_db = GenericDatabase('Standford DB')
-        export_csv = Storage('Exported CSV')
-        etl_notebook = Client('ETL Pipeline')
-        postgres_db = RDS('DF In-house DB')
-        export_json = General('JSON Export')
-        with Cluster('ERN Stack'):
-            react_frontend = Javascript('React')
+    with Diagram(' ', filename='data_flow_diagram', show=True):
+        source_db = RDS('Standford Source')
+        source_csv = Resource('Downloadable CSV')
+        with Cluster('Back End'):
+            etl_notebook = Server('Incoming Pipeline')
+            data_analytics = Singer('Data Analysis')
+            csv_2_json = Server('Outgoing Pipeline')
+        export_json = Resource('JSON Data')
+        with Cluster('Front End'):
             express_backend = Javascript('Express')
-            nodejs_server = Javascript('Node.js')
-        website_user = User('User')
-        source_db >> export_csv >> etl_notebook >> postgres_db
-        postgres_db >> export_json
+            react_frontend = Javascript('React')
+            nodejs_server = Javascript('Node')
+        website_user = User('Stakeholder')
+        source_db >> source_csv >> etl_notebook >> data_analytics
+        data_analytics >> csv_2_json >> export_json
         export_json >> express_backend >> react_frontend >> nodejs_server >> website_user
 
 if __name__ == '__main__':
