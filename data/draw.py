@@ -9,7 +9,7 @@ from diagrams.onprem.client import Client, User
 
 def main():
     with Diagram(' ', filename='data_flow_diagram', show=True):
-        source_db = RDS('Standford Source')
+        source_db = RDS('Stanford Source')
         source_csv = Resource('Downloadable CSV')
         with Cluster('Back End'):
             etl_notebook = Server('Incoming Pipeline')
