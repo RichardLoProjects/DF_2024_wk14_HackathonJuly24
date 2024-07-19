@@ -1,0 +1,11 @@
+name,organisation,created_date,number_of_parameters,glue_score,monthly_users,accuracy,number_of_published_articles,perceived_business_success,organisation_credibility_score
+ChatGPT-4,OpenAI,2023-03-15,175B,88.5,500M,90%,50,9,9.5
+Gemini,Google,2023-06-01,180B,89.2,300M,91%,45,8.5,9.2
+Llama3,Meta,2023-08-20,200B,87.9,150M,88%,30,8,8.7
+MedGemini,Google,2023-09-10,150B,85.0,20M,93%,25,9,9.3
+Chronos,Amazon,2023-07-05,140B,86.7,15M,92%,20,8.5,9
+Claude,Anthropic,2023-04-12,160B,88.1,100M,89%,35,8.7,8.9
+WizardLM,Microsoft,2023-05-22,170B,87.5,120M,87%,28,8.3,9
+BioBERT,Naver,2023-01-30,110B,84.3,10M,91%,15,8.4,8.6
+LegalGPT,Thomson Reuters,2023-02-14,130B,85.5,5M,90%,18,8.6,9.1
+FinBERT,Bloomberg,2023-03-10,120B,86.0,8M,89%,20,8.8,9
