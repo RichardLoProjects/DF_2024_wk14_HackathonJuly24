@@ -11,19 +11,17 @@ def main():
     with Diagram(' ', filename='data_flow_diagram', show=True):
         source_db = RDS('Stanford Source')
         source_csv = Resource('Downloadable CSV')
-        with Cluster('Back End'):
-            etl_notebook = Server('Incoming Pipeline')
-            data_analytics = Singer('Data Analysis')
-            csv_2_json = Server('Outgoing Pipeline')
+        etl_notebook = Server('Analysis Pipeline')
+        csv_2_json = Server('Internal Comms Pipeline')
+        data_analytics = Singer('Data Analysis')
+        raw_pipe = Server('Catalog Pipeline')
         export_json = Resource('JSON Data')
-        with Cluster('Front End'):
-            express_backend = Javascript('Express')
-            react_frontend = Javascript('React')
-            nodejs_server = Javascript('Node')
+        frontend = Javascript('Frontend')
         website_user = User('Stakeholder')
+        source_csv >> raw_pipe >> export_json
         source_db >> source_csv >> etl_notebook >> data_analytics
         data_analytics >> csv_2_json >> export_json
-        export_json >> express_backend >> react_frontend >> nodejs_server >> website_user
+        export_json >> frontend >> website_user
 
 if __name__ == '__main__':
     main()
