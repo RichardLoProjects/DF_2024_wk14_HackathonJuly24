@@ -1,0 +1,55 @@
+>> Credibility <<
+
+> (TrackRecord)
+* Good TrackRecird with Llama projects
+* Its known for its tech (good and bad stuff) -- the negative mostly because of ethics. A
+lot of the stuff on llama 3 is from meta itself
+> (Endorsement)
+> (Recognition)
+for both thw above, we see very little mention of llama 3 frok other sources i.e.not Meta
+
+--------------------------------------------------------------------------------------
+>> Harmfulness <<
+
+>(Incident)
+only see stuff like normal biases due to the training data
+
+>(Safeguards)
+1. Bias Detection and Mitigation: Llama 3 includes mechanisms to identify and mitigate bias. For 
+instance, "Llama Guard" is a framework used with Llama 3 to classify content as safe or unsafe, 
+leveraging fine-tuned models and red-team evaluations to flag harmful content categories such as 
+violence, hate speech, and other sensitive areas​ (ar5iv)​.
+
+2. Moderation Tools: The model implements various moderation tools to enhance safety. This 
+includes training on datasets specifically designed to handle complex and nuanced human-AI 
+interactions, alongside continuous evaluations and updates to improve safety and mitigate 
+potential harms​ (Hugging Face)​.
+
+https://ai.meta.com/blog/meta-llama-3-meta-ai-responsibility/ -- very detailed page
+
+-------------------------------------------------------------------
+>> Accuracy <<
+
+>
+https://www.capestart.com/resources/blog/the-battle-of-the-llms-llama-3-vs-gpt-4-vs-gemini/
+---> took average from this website
+
+---------------------------------------------------------------------
+>> Benchmark <<
+
+>
+-------------------------------------------------------------------------
+
+>> Capabilities <<
+
+Has lots of features
+
+---------------------------------------------------------------------------------
+>> Success Stories<<
+
+
+
+---------------------------------------------------------------------------
+>> Popularity<<
+
+It was has only been in the market for a little while and has grown very quickly

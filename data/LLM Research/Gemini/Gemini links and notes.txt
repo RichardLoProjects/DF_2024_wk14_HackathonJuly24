@@ -1,0 +1,94 @@
+>> Credibility <<
+
+> (TrackRecord)
+* Google has a good reputation
+* Lots of downloads for the first product
+* maybe not too many active users by looking at the reviews
+
+> (Endorsement)
+* People have talked about it, but a lot is negative
+* source (blooberg and tik tokker)
+
+> (Recognition)
+* olympics?? (not yet happened)
+
+--------------------------------------------------------------------------------------
+>> Harmfulness <<
+
+>(Incident)
+*less training - less technically accurate
+*image generation --- some funny stuff
+https://www.bbc.co.uk/news/technology-68412620.amp
+
+>(Safeguards)
+* try to fix but not very well.
+* has ethical guideline but does it actually implement them
+* more time and thought needed 
+
+-------------------------------------------------------------------
+>> Accuracy <<
+
+>
+less training data than GPT so would estimate less than that
+
+On average, GPT-4 might be considered the most accurate in terms of broad applicability and 
+performance across diverse tasks due to its extensive training and robust architecture. LLaMA 3 
+would be a strong contender in terms of efficiency and resource optimization, potentially at a 
+slight trade-off in accuracy. Gemini, while potentially highly accurate, may excel particularly 
+in tasks that benefit from its innovative design, though its comparative performance might be 
+more context-dependent.
+
+---------------------------------------------------------------------
+>> Benchmark <<
+
+> https://www.tomsguide.com/ai/google-gemini-vs-openai-chatgpt
+
+* estimate based on other gemini product benchmark accuracy scores
+-------------------------------------------------------------------------
+
+>> Capabilities <<
+
+https://www.bloomberg.com/opinion/articles/2023-12-07/google-s-gemini-ai-model-looks-remarkable-but-it-s-still-behind-openai-s-gpt-4
+
+---------------------------------------------------------------------------------
+>> Success Stories<<
+
+* Flunctuating reviews 
+
+---------------------------------------------------------------------------
+>> Popularity<<
+
+* naming inconsistency - started off with BARD 
+ horoscope - bitcoin thing
+
+* growth rate - extpected to be quick because of google
+  dowload very low compared to gpt
+  however will increase in the future
+ 
+* https://doit.software/blog/google-gemini-statistics#screen8
+ Gemini - Popularity. Not much info on recent active user data and most sources speak only of 
+users in the USA.Based on visible date in this specific link, the frequency of visits on mobile 
+and desktop has faltered and dropped slightly. Comparative to other large language models (like 
+chatgpt), their user numbers are significantly smaller but not too bad given it is a fairly newer 
+model.
+
+* https://www.statista.com/statistics/1454331/united-states-chatgpt-gemini-app-downloads/
+(shows downloads comparison in US for gemini vs chatgpt).
+
+This also acts as a growth indicator and only 5 months of data is visible for gemini and each 
+shows heavy fluctuations in downloads with no clear upward or downward trend visible.
+
+Contrary to this, a more recent article (6 days old) suggests a better growth rate and trend for 
+gemini where it is predicted to reach 1 billion users by the end of 2024. Its popularity is 
+definitely growing but there are some people who prefer the more spoken of models.
+
+Based on current statistics and not projected ones,
+Their current popularity is not too great compared to larger models like Chatgpt and given how 
+popular Google is, it is a bit of a shock because of how dependent people are on Google. We would 
+expect brand loyalty to attract users, which is not happening as expected (probably because of the 
+naming conventions where it is being referred to more as Gemini rather than Google Gemini - its 
+Google attachment has recently caught on so I do think there is a likelihood of growth due to 
+brand loyalty).
+
+Current popularity - 2/5 
+Growth rate - 2/5 (some growth visible but with the projected speed it might get better)

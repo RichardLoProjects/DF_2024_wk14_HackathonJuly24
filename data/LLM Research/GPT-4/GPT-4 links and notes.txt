@@ -1,0 +1,109 @@
+>> Credibility <<
+
+> Open AI Platform
+https://platform.openai.com/docs/models/gpt-4o
+---Has done a lot of projects and has a good reputation (Track-Record)
+
+> Article
+https://techcrunch.com/2023/07/06/openai-makes-gpt-4-generally-available/
+
+> 
+https://www.technologyreview.com/2023/03/21/1070102/how-ai-experts-are-using-gpt-4/
+--- Used by researchers and prominent people in a successful manner (Endorsements)
+
+> (Recognition)
+Gartner: OpenAI and its models, including GPT-4, are often mentioned in Gartner's reports and 
+	Magic Quadrants, which recognize the top players in the AI and machine learning space.
+Forrester: Forrester has also recognized OpenAI's achievements, particularly highlighting the 
+	impact of its language models on various industries.
+
+--------------------------------------------------------------------------------------
+>> Harmfulness <<
+
+>(Incident)
+https://www.neowin.net/news/flowchart-images-trick-gpt-4o-into-producing-harmful-text-outputs/
+https://ar5iv.labs.arxiv.org/html/2304.03738
+
+>(Safeguards)
+1. Bias Detection Algorithms: OpenAI continuously works on improving their models' fairness and 
+	reducing biases. This includes refining the datasets and using advanced filtering techniques
+	to remove undesirable content before it is used in training the models​.
+https://openai.com/index/language-model-safety-and-misuse/
+
+2. Moderation Tools: The technical report on GPT-4 highlights efforts to minimize harmful outputs. 
+	For example, GPT-4 is designed to be 82% less likely to generate inappropriate content 
+	compared to its predecessor, GPT-3.5. It is also 40% more likely to produce correct responses, 
+	according to OpenAI's internal evaluations​​.
+https://www.jasper.ai/the-prompt/openai-technical-paper-gpt4
+
+3. Safety Research: OpenAI has a dedicated team working on the safety and policy aspects of AI 
+	deployment. They actively seek to understand and mitigate the risks associated with their 
+	models by engaging in ongoing research and collaborating with external organizations​.
+https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000417
+
+-------------------------------------------------------------------
+>> Accuracy <<
+
+>
+https://www.nature.com/articles/s41598-024-58760-x#Sec9
+https://www.researchgate.net/figure/Comparison-table-for-the-accuracy-of-GPT-35-and-GPT-4_tbl1_370547416
+>
+https://www.capestart.com/resources/blog/the-battle-of-the-llms-llama-3-vs-gpt-4-vs-gemini/
+---> took average from this website
+
+---------------------------------------------------------------------
+>> Benchmark <<
+
+>
+-------------------------------------------------------------------------
+
+>> Capabilities <<
+
+Feature Count:
+	Summarization: GPT-4 can generate concise summaries of long texts. (4.5)
+	Translation: It supports translation between multiple languages. (4.5)
+	Sentiment Analysis: It can analyze the sentiment of text. (3.5)
+	Code Generation: Assists in writing and understanding code. (4.0)
+	Question Answering: Provides detailed answers to queries. (3.5)
+	Creative Writing: Generates poetry, stories, and other creative content. (3.2)
+	Conversational Abilities: Engages in complex dialogues. (4.0)
+
+Performance varies across tasks but generally excels in language comprehension, generation, and transformation tasks.
+
+---------------------------------------------------------------------------------
+>> Success Stories<<
+
+Case Studies:
+	*OpenAI has documented numerous case studies showcasing GPT-4’s application in various industries.
+	*Number of Documented Case Studies: 10+ (based on public and anecdotal reports). (4.7)
+
+User Testimonials:
+	*Positive user testimonials highlight GPT-4’s capabilities in improving productivity and 
+	 generating high-quality content.
+	*Number of User Testimonials: Thousands (across platforms like OpenAI's website, tech forums, 
+	 and social media). (4.0)
+	*Sentiment Analysis: Predominantly positive, with users praising its versatility and 
+	 efficiency. (3.5)
+
+Implementation Success Rate:
+	*Percentage of Successful Implementations: Estimated at 90%+, considering its integration in 
+	 various applications and services.
+	*Fails: https://forum.zettelkasten.de/discussion/2513/chatgpt-fails-for-research
+	*(3.9)
+
+---------------------------------------------------------------------------
+>> Popularity<<
+
+Market Penetration:
+	*Number of Active Users: Millions (considering integration in numerous applications and 
+	 platforms like ChatGPT, GitHub Copilot, etc.). (5.0)
+
+Adoption Rate:
+	*Growth Rate of New Users: Significant increase month-over-month since launch, estimated 
+	 at 20-30% per quarter. (5.0)
+
+Application Breadth:
+	*Number of Different Industries or Applications: Used in various industries including 
+	 healthcare, finance, education, customer service, software development, and content 
+	 creation. (4.5)
+

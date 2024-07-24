@@ -1,0 +1,65 @@
+>> Credibility <<
+
+> (TrackRecord)
+
+> (Endorsement)
+*https://aplicaciones.ai/en/bloomberggpt/
+  used by their experts and recommended
+
+
+> (Recognition)
+*https://research.aimultiple.com/generative-ai-finance/
+*https://www.linkedin.com/pulse/bloomberg-releases-new-50-billion-parameter-large-language-vagh/
+
+--------------------------------------------------------------------------------------
+>> Harmfulness <<
+
+>(Incident)
+
+>(Safeguards)
+
+
+
+-------------------------------------------------------------------
+>> Accuracy <<
+
+> https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/
+-- Taken the accuracy for financial tasks only
+for financial or average??
+
+
+---------------------------------------------------------------------
+>> Benchmark <<
+
+> https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/
+-- average taken
+---> https://ritvik19.medium.com/papers-explained-120-bloomberggpt-4bedd52ef54b
+------has more detailed stuff for the figures given on th ebloomberg page
+
+> https://paperswithcode.com/paper/bloomberggpt-a-large-language-model-for
+-- average taken
+-------------------------------------------------------------------------
+
+>> Capabilities <<
+
+Summarization: 4.5
+Translation: 4.0
+Sentiment Analysis: 4.8
+Data Extraction: 4.7
+Financial Forecasting: 4.9
+
+
+---------------------------------------------------------------------------------
+>> Success Stories<<
+
+Many Positive Reviews and Recommendations. Not has as much time at GPT-3 but it still has some 
+very good metrics
+
+---------------------------------------------------------------------------
+>> Popularity<<
+
+Market Penetration: MANY active users.
+Adoption Rate: ~30% growth rate in a year. (estimated guess)
+Application Breadth: ~ 8-10 different industries.
+
+

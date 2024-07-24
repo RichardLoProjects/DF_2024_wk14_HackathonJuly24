@@ -1,0 +1,99 @@
+>> Links <<
+
+*https://lgcorp.com/media/release/27378#:~:text=At%20the%20LG%20AI%20Talk%20Concert%202023%2C%20we%20demonstrated%20the,models%20and%20bidirectional%20multimodal%20models
+
+---------------------------------------------------------------------------------------
+>> Credibility <<
+
+* new and korean
+
+> (TrackRecord)
+* good and scope for improvement through expansion
+* probably has normal ai issues
+
+> (Endorsement)
+* still new -- on 2024 Mack Zukerburg tried extended patnership to his devices with their AI team
+            -- but did with many but only apprached them amongst south korean
+	    -- also offered to companies like samsung
+  https://www.reuters.com/world/asia-pacific/metas-zuckerberg-south-korea-expected-discuss-ai-2024-02-27/
+
+
+> (Recognition)
+* won Minister of Science and ICT Award (big thing in korea) (2023)
+      --- 2024 -- electronic reserachers won the award
+  https://lgresearch.ai/news/view?seq=341
+  https://mk.co.kr/en/it/11061643
+--------------------------------------------------------------------------------------
+>> Harmfulness <<
+
+>(Incident)
+
+* gatekept information??? --- beacuse local
+* they give info to korean news sources to biases may be there
+* we haven't heard anything
+
+*training data = images, research papers
+
+>(Safeguards)
+
+https://www.forbes.com/sites/lg/2023/10/03/unleashing-innovation-how-ai-bio-and-cleantech-keep-lg-ahead-of-the-curve/
+
+
+Chat GPT:
+Exaone 2.0 includes several advanced safeguard mechanisms to minimize bias and ensure the accuracy of its outputs:
+
+* Bias Detection and Mitigation: Exaone 2.0 is built to prevent hallucinations (the generation of 
+ false information) by referencing a vast database of reliable sources, including 45 million 
+ theses, patents, and other literature, along with 350 million images. This extensive dataset 
+ helps provide contextually accurate responses and reduces the risk of biased or incorrect outputs​
+ (Korea JoongAng Daily)​.
+
+* Multilingual Capabilities: The model supports both Korean and English, enhancing its ability to 
+ understand and process diverse inputs more effectively, which can contribute to reducing 
+ language-based biases​ (LG AI Research)​.
+
+* Professional and Expert Insights: By focusing on professional applications in fields such as 
+ chemistry, biology, medicine, finance, and patents, Exaone 2.0 aims to deliver specialized and 
+ reliable information. This targeted approach helps ensure that the outputs are grounded in 
+ verified data and expert knowledge​ (Korea JoongAng Daily)​​ (LG AI Research)​.
+
+* Transparent Answer Generation: Exaone 2.0 provides insights along with references to the 
+ original sources, allowing users to verify the information. This transparency is crucial for 
+ maintaining trust and credibility​ (Korea JoongAng Daily)​.
+
+* Advanced Image and Document Processing: The platform can process and understand complex 
+ scientific documents, including molecular structures and formulas, reducing the chance of 
+ misinterpretation and ensuring accurate data handling​ (LG AI Research)​.
+
+-------------------------------------------------------------------
+>> Accuracy <<
+
+>
+
+
+---------------------------------------------------------------------
+>> Benchmark <<
+
+>
+-------------------------------------------------------------------------
+
+>> Capabilities <<
+
+* lots of potential
+* AI growing in Korea 
+  https://www.kedglobal.com/artificial-intelligence/newsView/ked202405280015
+
+---------------------------------------------------------------------------------
+>> Success Stories<<
+
+* positive reviews 
+* quotes in article their own people??
+*
+
+---------------------------------------------------------------------------
+>> Popularity<<
+* language restriction
+* local korea
+* specialisng in med and research => they are limited
+  
+https://www.koreaherald.com/view.php?ud=20230719000646
