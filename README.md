@@ -37,7 +37,7 @@ More on the frontend can be found in the website repository. Under the data repo
 - `/diagram` to showcase how data was handled throught the project.
 - `/pipeline` to store the data pipelines which processed the data.
 
-![Data diagram](https://github.com/RichardLoProjects/DF_2024_wk14_HackathonJuly24/blob/main/data/data_flow_diagram.png)
+![Data diagram](https://github.com/RichardLoProjects/DF_2024_wk14_HackathonJuly24/blob/main/diagram/data_flow_diagram.png)
 
 ### Conclusion
 
