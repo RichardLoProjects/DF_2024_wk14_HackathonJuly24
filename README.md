@@ -2,7 +2,11 @@
 
 ### Project Team
 
-
+- [Aksha](<https://github.com/akshaamod>)
+- [Gwen](<https://github.com/gtsantus>)
+- [Harry](<https://github.com/Rustic-Citrus>)
+- [Richard](<https://github.com/RichardLoProjects>)
+- [Aya](<https://github.com/azalzala>)
 
 ### Motivation
 
@@ -18,14 +22,25 @@ The objective of Lighthouse is to produce a user friendly catalogue that include
 
 - A main catalogue page that displays LLMs in a tabular format.
 - Detailed pages for each LLM, providing detailed information about their features and capabilities.
-- A graphical representation that shows the business readiness and business value of each LLM, helping clients visualise which models align with their needs.
+- A graphical representation, dubbed the LLM matrix, that shows the business readiness and business value of each LLM, helping clients visualise which models align with their needs.
 
 ### Project Outcomes
 
-Project team delivered the data [backend](<>) and website [frontend](<>) via two repositories. The prototype website can be hosted locally
+The team succeeded in achieving the project aims through the [data repository](<https://github.com/RichardLoProjects/DF_2024_wk14_HackathonJuly24>) and the [website repository](<https://github.com/Rustic-Citrus/hackathon>). The product was presented ([slides](<https://github.com/RichardLoProjects/DF_2024_wk14_HackathonJuly24/blob/main/4lgorithm%20-%20Lighthouse.pptx>)) to [Steve Suarez](<https://www.linkedin.com/stevexsuarez>), founder and CEO of HorizonX, to showcase a product demo and pitch long term ideas for commercialisation.
 
 ### Product Description
 
+More on the frontend can be found in the website repository. Under the data repository, you can find:
+
+- `/data` which houses the source data `asset.csv` and the data outputs.
+- `/dataAnalysis` containing research for the product.
+- `/diagram` to showcase how data was handled throught the project.
+- `/pipeline` to store the data pipelines which processed the data.
+
+![Data diagram](https://github.com/RichardLoProjects/DF_2024_wk14_HackathonJuly24/blob/main/data/data_flow_diagram.png)
+
 ### Conclusion
+
+The initial release of Lighthouse will provide a valuable resource for businesses in regulated industries, offering the information and tools needed to navigate the complex landscape of LLMs. We welcome contributions from the community to help enhance Lighthouse. Whether through providing additional data, suggesting new features, or reporting issues, your input is valuable to us.
 
 
