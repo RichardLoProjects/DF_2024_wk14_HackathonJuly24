@@ -2,11 +2,11 @@
 
 ### Project Team
 
-- [Aksha Amod](<https://github.com/akshaamod>) 
-- [Gwen Santus](<https://github.com/gtsantus>)
-- [Harry Curtis](<https://github.com/Rustic-Citrus>)
-- [Richard Lo](<https://github.com/RichardLoProjects>)
-- [Aya Zalala](<https://github.com/azalzala>)
+- [Aksha Amod](<https://github.com/akshaamod>) - Researcher for LLM Matrix
+- [Gwen Santus](<https://github.com/gtsantus>) - Application Creator
+- [Harry Curtis](<https://github.com/Rustic-Citrus>) - Application Creator
+- [Richard Lo](<https://github.com/RichardLoProjects>) - Data Flow Management
+- [Aya Zalala](<https://github.com/azalzala>) - Data Flow Management
 
 ### Motivation
 
@@ -32,8 +32,8 @@ The team succeeded in achieving the project aims through the [data repository](<
 
 More on the frontend can be found in the website repository. Under the data repository, you can find:
 
-- `/data` which houses the source data `asset.csv` and the data outputs.
-- `/dataAnalysis` containing research for the product.
+- `/data` which houses the source data `asset.csv` and the data outputs; the LLM Matrix scores, research and methodology.
+- `/dataAnalysis` containing research for the product and LLM Matrix preview.
 - `/diagram` to showcase how data was handled throught the project.
 - `/pipeline` to store the data pipelines which processed the data.
 
