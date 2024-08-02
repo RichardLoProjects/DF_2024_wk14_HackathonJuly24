@@ -26,7 +26,7 @@ The objective of Lighthouse is to produce a user friendly catalogue that include
 
 ### Project Outcomes
 
-The team succeeded in achieving the project aims through the [data repository](<https://github.com/RichardLoProjects/DF_2024_wk14_HackathonJuly24>) and the [website repository](<https://github.com/Rustic-Citrus/hackathon>). The product was presented ([slides](<https://github.com/RichardLoProjects/DF_2024_wk14_HackathonJuly24/blob/main/4lgorithm%20-%20Lighthouse.pptx>)) to [Steve Suarez](<https://www.linkedin.com/stevexsuarez>), founder and CEO of HorizonX, to showcase a product demo and pitch long term ideas for commercialisation.
+The team succeeded in achieving the project aims through the [data repository](<https://github.com/RichardLoProjects/DF_2024_wk14_HackathonJuly24>) and the [website repository](<https://github.com/Rustic-Citrus/hackathon>). The product was presented ([slides](https://github.com/RichardLoProjects/DF_2024_wk14_HackathonJuly24/blob/main/4lgorithm%20-%20Lighthouse.pdf) to [Steve Suarez](<https://www.linkedin.com/stevexsuarez>), founder and CEO of HorizonX, to showcase a product demo and pitch long term ideas for commercialisation.
 
 ### Product Description
 
