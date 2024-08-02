@@ -2,11 +2,11 @@
 
 ### Project Team
 
-- [Aksha](<https://github.com/akshaamod>)
-- [Gwen](<https://github.com/gtsantus>)
-- [Harry](<https://github.com/Rustic-Citrus>)
-- [Richard](<https://github.com/RichardLoProjects>)
-- [Aya](<https://github.com/azalzala>)
+- [Aksha Amod](<https://github.com/akshaamod>) 
+- [Gwen Santus](<https://github.com/gtsantus>)
+- [Harry Curtis](<https://github.com/Rustic-Citrus>)
+- [Richard Lo](<https://github.com/RichardLoProjects>)
+- [Aya Zalala](<https://github.com/azalzala>)
 
 ### Motivation
 
