@@ -3,20 +3,21 @@
 ### Project Team
 
 - [Aksha Amod](<https://github.com/akshaamod>) - Researcher for LLM Matrix
-- [Gwen Santus](<https://github.com/gtsantus>) - Application Creator
-- [Harry Curtis](<https://github.com/Rustic-Citrus>) - Application Creator
-- [Richard Lo](<https://github.com/RichardLoProjects>) - Data Flow Management
 - [Aya Zalala](<https://github.com/azalzala>) - Data Flow Management
+- [Gwen Santus](<https://github.com/gtsantus>) - Application Creator
+- [Harry Stuart Curtis](<https://github.com/Rustic-Citrus>) - Application Creator
+- [Richard Lo](<https://github.com/RichardLoProjects>) - Data Flow Management
 
-### Motivation
+
+## Motivation
 
 With the recent boom in large language models (LLMs), rapid development has led to a scarcity of consolidated information. Particularly for potential business partners within regulated industries like banking, pharmaceuticals, telecommunications, and so on. Our client, [HorizonX](<https://www.horizonxc.com/>), saw this as an opportunity to face this challenge. The product, dubbed Lighthouse, was created to address the growing need for accessible and comprehensive information about LLMs. We aim to serve Lighthouse as a comprehensive catalogue to enable clients to make informed decisions by comparing various LLMs and identifying the ones best suited to their needs.
 
-### Problem Statement
+## Problem Statement
 
 Clients from regulated industries often struggle to find reliable and detailed information about various LLMs. This lack of information can hinder their ability to choose the right model for their needs.
 
-### Project Aims
+## Project Aims
 
 The objective of Lighthouse is to produce a user friendly catalogue that includes:
 
@@ -24,11 +25,11 @@ The objective of Lighthouse is to produce a user friendly catalogue that include
 - Detailed pages for each LLM, providing detailed information about their features and capabilities.
 - A graphical representation, dubbed the LLM matrix, that shows the business readiness and business value of each LLM, helping clients visualise which models align with their needs.
 
-### Project Outcomes
+## Project Outcomes
 
 The team succeeded in achieving the project aims through the [data repository](<https://github.com/RichardLoProjects/DF_2024_wk14_HackathonJuly24>) and the [website repository](<https://github.com/Rustic-Citrus/hackathon>). The product was presented ([slides](https://github.com/RichardLoProjects/DF_2024_wk14_HackathonJuly24/blob/main/4lgorithm%20-%20Lighthouse.pdf)) to [Steve Suarez](<https://www.linkedin.com/stevexsuarez>), founder and CEO of HorizonX, to showcase a product demo and pitch long term ideas for commercialisation.
 
-### Product Description
+## Product Description
 
 More on the frontend can be found in the website repository. Under the data repository, you can find:
 
@@ -39,7 +40,7 @@ More on the frontend can be found in the website repository. Under the data repo
 
 ![Data diagram](https://github.com/RichardLoProjects/DF_2024_wk14_HackathonJuly24/blob/main/diagram/data_flow_diagram.png)
 
-### Conclusion
+## Conclusion
 
 The initial release of Lighthouse will provide a valuable resource for businesses in regulated industries, offering the information and tools needed to navigate the complex landscape of LLMs. We welcome contributions from the community to help enhance Lighthouse. Whether through providing additional data, suggesting new features, or reporting issues, your input is valuable to us.
 
