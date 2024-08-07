@@ -18,7 +18,7 @@ https://en.wikipedia.org/wiki/GPT-J
 
 * sometimes give unecessary or inaccurate info
 
->(Safeguards)
+>(Safeguards) ChatGPT:
 
 
 * Bias Detection Algorithms: Frameworks like GPTBIAS have been developed to evaluate and address 

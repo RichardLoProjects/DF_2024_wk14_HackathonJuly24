@@ -24,7 +24,7 @@ Forrester: Forrester has also recognized OpenAI's achievements, particularly hig
 https://www.neowin.net/news/flowchart-images-trick-gpt-4o-into-producing-harmful-text-outputs/
 https://ar5iv.labs.arxiv.org/html/2304.03738
 
->(Safeguards)
+>(Safeguards) ChatGPT:
 1. Bias Detection Algorithms: OpenAI continuously works on improving their models' fairness and 
 	reducing biases. This includes refining the datasets and using advanced filtering techniques
 	to remove undesirable content before it is used in training the models​.
@@ -93,6 +93,8 @@ Implementation Success Rate:
 
 ---------------------------------------------------------------------------
 >> Popularity<<
+
+ChatGPT:
 
 Market Penetration:
 	*Number of Active Users: Millions (considering integration in numerous applications and 
