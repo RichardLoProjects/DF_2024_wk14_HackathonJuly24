@@ -44,4 +44,6 @@ More on the frontend can be found in the website repository. Under the data repo
 
 The initial release of Lighthouse will provide a valuable resource for businesses in regulated industries, offering the information and tools needed to navigate the complex landscape of LLMs. We welcome contributions from the community to help enhance Lighthouse. Whether through providing additional data, suggesting new features, or reporting issues, your input is valuable to us.
 
+## See Also
 
+-  As mentioned above, the software engineering aspect of the project is hosted on Harry's profile, and can be found [here](https://github.com/Rustic-Citrus/hackathon).
